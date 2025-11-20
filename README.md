@@ -15,7 +15,7 @@
     <style>
         body { font-family: 'Poppins', sans-serif; scroll-behavior: smooth; }
         .navbar-brand { font-weight: 700; font-size: 1.6rem; }
-        .hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://www.facebook.com/photo/?fbid=668783461957151&set=a.463490489153117') center/cover no-repeat; height: 90vh; color: white; }
+        .hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://scontent.fktm18-1.fna.fbcdn.net/v/t39.30808-6/481662537_1047999767368850_6640662133812445301_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFBmWDzGW4T4UxJqUBTBjzVxanYoyYEaLXFqdijJgRotZz0RVK-NzbYko6w6qfJ14_MjcZkxJOneSkCpNGyFrFZ&_nc_ohc=IH7MXv7J48YQ7kNvwHJLL2E&_nc_oc=AdnVboDN3LlNb3aIwrWNB7L7WzdBkLq6I4GCBm8s3QWohukzencn3eewVZKELN3kaVZubVU88TC5TWyjlaYQ2pEM&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fktm18-1.fna&_nc_gid=3XrwM7n8_54qwU8YZimX0A&oh=00_AfiNMPOzp1103SOImW7pBIccpTjQAQbw760-uE6rR0PvjQ&oe=6924F0D3') center/cover no-repeat; height: 90vh; color: white; }
         .section-title { font-weight: 700; color: #0d6efd; position: relative; display: inline-block; }
         .section-title::after { content: ''; position: absolute; width: 60px; height: 4px; background: #0d6efd; bottom: -10px; left: 50%; transform: translateX(-50%); }
         footer { background: #0d0d0d; color: #fff; }
