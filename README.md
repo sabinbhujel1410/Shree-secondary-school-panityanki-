@@ -1,4 +1,4 @@
-Sabin Bhujel, [11/20/2025 3:30 PM]
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,7 +173,7 @@ Sabin Bhujel, [11/20/2025 3:30 PM]
     <footer class="py-4 text-center">
         <div class="container">
             <p>&copy; 2025 Shree Siddhababa Secondary School, Panityanki. All rights reserved.<br>
-            Developed with ❤️ by Mr.Sabin Bhujel</p>
+            Developed with ❤️ by <a href="https://www.facebook.com/tempestsbnsindhuli"> Mr.Sabin Bhujel</a></p>
         </div>
     </footer>
 
