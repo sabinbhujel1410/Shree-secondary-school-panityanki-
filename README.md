@@ -15,7 +15,7 @@
     <style>
         body { font-family: 'Poppins', sans-serif; scroll-behavior: smooth; }
         .navbar-brand { font-weight: 700; font-size: 1.6rem; }
-        .hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=2070&auto=format&fit=crop') center/cover no-repeat; height: 90vh; color: white; }
+        .hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://www.facebook.com/photo/?fbid=668783461957151&set=a.463490489153117') center/cover no-repeat; height: 90vh; color: white; }
         .section-title { font-weight: 700; color: #0d6efd; position: relative; display: inline-block; }
         .section-title::after { content: ''; position: absolute; width: 60px; height: 4px; background: #0d6efd; bottom: -10px; left: 50%; transform: translateX(-50%); }
         footer { background: #0d0d0d; color: #fff; }
@@ -63,7 +63,7 @@
                 <div class="col-lg-6">
                     <img src="https://images.unsplash.com/photo-1523050854058-330f4a5b3998?q=80&w=2070&auto=format&fit=crop" alt="School Building" class="img-fluid rounded shadow">
 
-Sabin Bhujel, [11/20/2025 3:30 PM]
+
 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <h3>Welcome to Shree Siddhababa Secondary School</h3>
@@ -136,7 +136,7 @@ Sabin Bhujel, [11/20/2025 3:30 PM]
             <div class="row">
                 <!-- You can replace these with actual school photos -->
 
-Sabin Bhujel, [11/20/2025 3:30 PM]
+
 <div class="col-md-4 mb-4">
                     <img src="https://images.unsplash.com/photo-1591122927550-5f3f021f2a9f?q=80&w=2070&auto=format&fit=crop" alt="School Activity" class="img-fluid rounded shadow">
                 </div>
