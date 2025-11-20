@@ -172,7 +172,7 @@
     <!-- Footer -->
     <footer class="py-4 text-center">
         <div class="container">
-            <p>&copy; 2025 Shree Siddhababa Secondary School, Panityanki. All rights reserved.<br>
+            <p>&copy; 2025<a href="https://www.facebook.com/SiddhababaMaBi.Panityanki"> Shree Siddhababa Secondary School, Panityanki</a>. All rights reserved.<br>
             Developed with ❤️ by <a href="https://www.facebook.com/tempestsbnsindhuli"> Mr.Sabin Bhujel</a></p>
         </div>
     </footer>
